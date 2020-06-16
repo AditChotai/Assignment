@@ -6,7 +6,7 @@ Documentation by Orwa
 2. relay_sketch.ino<br />
 3. relay.py<br />
 ## Wiring Diagram
-&nbsp; ![wiring Diagram](https://github.com/AditChotai/Assignment/blob/master/Img/Wiring%20Diagram.png)
+&nbsp; ![wiring Diagram](Wiring%20Diagram.svg)
 
 ## Prerequisites (installation)
 1.	PySerial package. To install, type the following from the command prompt:<br />
